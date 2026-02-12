@@ -82,21 +82,21 @@ Understand data & make business decisions.
 
 # 🚀 Comparison Table
 
-  -----------------------------------------------------------------------------------
-  Feature              AI         ML            DL         Data Science
-  -------------------- ---------- ------------- ---------- --------------------------
-  Scope                Broadest   Subset of AI  Subset of  Separate field
-                                                ML         
+  ----------------------------------------------------------------------------
+  Feature          AI         ML            DL         Data Science
+  ---------------- ---------- ------------- ---------- -----------------------
+  Scope            Broadest   Subset of AI  Subset of  Separate field
+                                            ML         
 
-  Based On             Logic +    Data-driven   Neural     Data analysis
-                       ML + Rules learning      Networks   
+  Based On         Logic +    Data-driven   Neural     Data analysis
+                   ML + Rules learning      Networks   
 
-  Requires Data?       Not always Yes           Yes (Large Yes
-                                                Data)      
+  Requires Data?   Not always Yes           Yes (Large Yes
+                                            Data)      
 
-  Main Goal            Smart      Learn         Complex    Business insights
-                       systems    patterns      learning   
-  -----------------------------------------------------------------------------------
+  Main Goal        Smart      Learn         Complex    Business insights
+                   systems    patterns      learning   
+  ----------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
